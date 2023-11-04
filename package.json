@@ -13,6 +13,7 @@
     "wrangler": "^3.0.0"
   },
   "dependencies": {
+    "soroban-client": "^1.0.0-beta.4",
     "stellar-sdk": "github:stellar/js-stellar-sdk#make-eventsource-optional"
   }
 }

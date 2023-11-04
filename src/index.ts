@@ -1,4 +1,8 @@
+// Does not work 😞
 import { Keypair } from 'stellar-sdk'
+
+// Works!
+// import { Keypair } from "soroban-client";
 
 /**
  * Welcome to Cloudflare Workers! This is your first worker.
