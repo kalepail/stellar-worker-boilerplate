@@ -8,11 +8,11 @@
     "start": "wrangler dev"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20231121.0",
+    "@cloudflare/workers-types": "^4.20231218.0",
     "typescript": "^5.3.3",
-    "wrangler": "^3.19.0"
+    "wrangler": "^3.22.2"
   },
   "dependencies": {
-    "@stellar/stellar-sdk": "github:stellar/js-stellar-sdk#make-eventsource-optional"
+    "@stellar/stellar-sdk": "git://github.com/stellar/js-stellar-sdk.git#06699dde835feb2d113a674c8ec6e38fab68a9cc"
   }
 }
